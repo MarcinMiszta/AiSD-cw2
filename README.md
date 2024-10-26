@@ -1,0 +1,2 @@
+removefirst() & last()
+string tostring()
