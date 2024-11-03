@@ -1,0 +1,17 @@
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\AiSD cwiczenia 2.csproj.AssemblyReference.cache
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\AiSD_cwiczenia_2.Form1.resources
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\AiSD cwiczenia 2.csproj.GenerateResource.cache
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\AiSD cwiczenia 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\AiSD cwiczenia 2.AssemblyInfoInputs.cache
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\AiSD cwiczenia 2.AssemblyInfo.cs
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\AiSD cwiczenia 2.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\bin\Debug\net6.0-windows\AiSD cwiczenia 2.exe
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\bin\Debug\net6.0-windows\AiSD cwiczenia 2.deps.json
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\bin\Debug\net6.0-windows\AiSD cwiczenia 2.runtimeconfig.json
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\bin\Debug\net6.0-windows\AiSD cwiczenia 2.dll
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\bin\Debug\net6.0-windows\AiSD cwiczenia 2.pdb
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\AiSD cwiczenia 2.dll
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\refint\AiSD cwiczenia 2.dll
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\AiSD cwiczenia 2.pdb
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\AiSD cwiczenia 2.genruntimeconfig.cache
+C:\Users\Marcin\Desktop\AiSD-cw2-main\AiSD cwiczenia 2\AiSD cwiczenia 2\obj\Debug\net6.0-windows\ref\AiSD cwiczenia 2.dll
